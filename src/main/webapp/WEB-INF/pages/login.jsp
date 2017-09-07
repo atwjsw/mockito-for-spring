@@ -2,7 +2,7 @@
 <%@ taglib prefix="sf" uri="http://www.springframework.org/tags/form"%>
 <h1>${error}</h1>
 <div>
-    <h2>Login </h2>
+    <h2>Login Page</h2>
     <sf:form method="POST" action="/onLogin">
         <fieldset>
             <table cellspacing="0">
